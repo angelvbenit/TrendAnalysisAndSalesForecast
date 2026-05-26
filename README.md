@@ -31,3 +31,6 @@ Forecast future sales using past transaction data to inform strategic retail dec
 
 **Impact:**
 Demonstrated the practical business value of integrating time-series forecasting with visual analytics—enabling data-backed decision-making in retail environments with seasonal demand volatility.
+
+**Medium Article:**
+https://medium.com/@angelvbenit/i-took-a-break-from-kaggle-to-help-a-local-shop-heres-what-i-built-0bce8e6bf53f
